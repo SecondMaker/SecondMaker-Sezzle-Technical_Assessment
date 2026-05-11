@@ -13,7 +13,7 @@ A modern, responsive calculator application built with a **React (TypeScript)** 
 
 ###  Clone & Navigate
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/SecondMaker/SecondMaker-Sezzle-Technical_Assessment>
 cd calculator-fullstack
 
 ---
