@@ -41,6 +41,7 @@ docker compose up -d backend
 ##For the frontend
 cd ./frontend
 npm run dev
+#Open http://localhost:5173/ in your web navigator and use it
 
 Examples of API Calls (REST)
 Endpoint: POST /api/v1/calculate
